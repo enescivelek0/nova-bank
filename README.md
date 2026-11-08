@@ -6,6 +6,15 @@
 
 Hesaplarınızı tek ekranda görün, saniyeler içinde para gönderin, kartlarınızı anında yönetin.
 
+### [🌐 Canlı Demo → nova-bank-eight-gamma.vercel.app](https://nova-bank-eight-gamma.vercel.app)
+
+[![Canlı Demo](https://img.shields.io/badge/Canl%C4%B1%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nova-bank-eight-gamma.vercel.app)
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com)
+
+<sub>Giriş ekranında bilgiler hazır gelir; <b>Devam et</b>'e basmanız yeterli, SMS kodu otomatik dolar.</sub>
+
 </div>
 
 ---
